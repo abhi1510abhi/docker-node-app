@@ -26,7 +26,16 @@ docker help
 # run images on - it means interactive mode and -p means port mapping
 docker run -it -p 3333:3333 docker-node-app   
 
+#docker compose
+docker compose up -d (-d means detach mode)
+docker compose down 
 
+# pushing image to docker hub
 docker login 
 docker logout
-docker push 
+
+docker build -t abhijeet735195/docker-node-app .
+docker push abhijeet735195/docker-node-app
+
+
+
