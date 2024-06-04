@@ -18,8 +18,8 @@ docker logs -f 94a879f3c707  # check open logs
 
 docker help 
 
- # run images on - it means interactive mode and -p means port mapping
-docker run -it -p 3333:3333 docker-node-app  
+
+docker run -it -p 3333:3333 docker-node-app   # run images on - it means interactive mode and -p means port mapping
 
 docker login 
 docker logout
