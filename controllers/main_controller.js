@@ -1,7 +1,7 @@
 
 const healthCheck = (req, res) => {
     try {
-
+        console.log("inside healthCheck : OK")
         res.json({
             data: {
                 health: "OK"
