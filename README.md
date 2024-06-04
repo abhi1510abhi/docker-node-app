@@ -52,6 +52,8 @@ docker push abhijeet735195/docker-node-app
 # docker compose 
 <img width="1431" alt="Screenshot 2024-06-05 at 12 27 18 AM" src="https://github.com/abhi1510abhi/docker-node-app/assets/47599526/93cf0425-e9fa-4b30-8f10-e05ff6cc7f73">
 
+# docker hub image published
+<img width="1379" alt="Screenshot 2024-06-05 at 12 48 52 AM" src="https://github.com/abhi1510abhi/docker-node-app/assets/47599526/716fe753-3f83-40ec-8afd-41201b6047dd">
 
 
 
